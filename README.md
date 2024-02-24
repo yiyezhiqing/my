@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<meta charset="UTF-8">
 <html>
     <head>
-        <title>逸晔郅磬的网站</title>
+        <meta charset="UTF-8">
     </head>
     <body>
         <h1>欢迎游玩我的游戏，我是逸晔郅磬，一个刚开始学习c++的小白，以下是我的游戏的介绍:</h1>
@@ -47,6 +46,10 @@
         <p>
             <strong>访问作者的B站账号</strong>
             <a href="https://space.bilibili.com/696536561?spm_id_from=333.1007.0.0" target="_blank">前往</a>
+        </p>
+         <p>
+            <strong>下载我的游戏(密码:1145)</strong>
+            <a href="https://www.lanzouw.com/iU1g21p5pzvi" target="_blank">前往</a>
         </p>
         <p>
             <strong>访问作者的邮箱(请确保你有安装客服端的邮箱)</strong>
